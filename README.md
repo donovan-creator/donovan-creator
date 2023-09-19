@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+Hi I'm Donovan Brocious, a Penn State student pursuing computer science who desires to become a software engineer. In my freetime I enjoy hiking in the woods, learning more about machine learning application, and hanging out with friends.
+
 
 <!--
 **donovan-creator/donovan-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
